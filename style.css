@@ -1,0 +1,48 @@
+*{
+	font-family: 'Gilroy', sans-serif;
+}
+img-person{
+	margin-bottom: 10px;
+	
+}
+.icon-inst{
+	margin-right: 8px;
+}
+.name {
+	height: 35px;
+	font-size: 20px;
+	font-weight: bold;
+}
+small{
+	font-size: 14px;
+	line-height: 174.2%;
+	color: #AAAAAA;
+}
+a {
+	font-size: 16px;
+	line-height: 174.2%;
+	color: #0F8AF9;
+	margin-bottom: 15px;
+}
+.price {
+	font-size: 24px;
+	line-height: 174.2%;
+	color: #000000;
+	font-weight: bold;
+	background-color: #FBFBFB;
+	width: 287px;
+height: 59px;
+}
+.border{
+	background: #FFFFFF;
+	box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.02);
+	border-radius: 5px;
+}
+
+.counter{
+	padding: 22px 30px;
+	font-size: 16px;
+	line-height: 174.2%;
+	color: #969696;
+	font-weight: bold;
+}
